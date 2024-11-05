@@ -9,7 +9,5 @@
 #🛠️ Technologies Used 
 
 #HTML: Basic structure of the game.
-
 #CSS: Styling for a visually appealing interface.
-
 #JavaScript: Core logic for game functionality, including random number generation, user input handling, and score management.
